@@ -12,4 +12,8 @@ Features:
 * Get details of the selected anime.
 * Add and remove the anime to your favorite list.
 
+First clone it and do as following:
+npm i && npm start
+
 [Visit the website.](https://anipedianp.netlify.app/)
+
